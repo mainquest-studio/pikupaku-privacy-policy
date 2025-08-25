@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy describes how Mainquest Studie Pte. Ltd. ("we," "us," or "our"), the developer of Pikupaku ("the App"), collects, uses, and protects information when you use our pick and pack application available on the Shopify App Store.
+This Privacy Policy describes how Mainquest Studio Pte. Ltd. ("we," "us," or "our"), the developer of Pikupaku ("the App"), collects, uses, and protects information when you use our pick and pack application available on the Shopify App Store.
 
 We are committed to protecting your privacy and ensuring the security of your data. This policy applies to all merchants and their customers whose data we process through the App.
 
