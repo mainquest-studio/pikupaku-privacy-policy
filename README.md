@@ -1,5 +1,3 @@
-# Privacy Policy for Pikupaku
-
 **Last Updated: 25 July 2025
 
 **Effective Date: 25 July 2025
